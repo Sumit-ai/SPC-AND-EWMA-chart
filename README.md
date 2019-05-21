@@ -7,4 +7,5 @@
 If you want to embed images, this is how you do it:
 
 ![Image of Yaktocat]
-(https://github.com/Sumit-ai/SPC-chart-/blob/master/images/pic.png)
+(https://github.com\Sumit-ai\SPC-chart-\blob\master\images\pic.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
