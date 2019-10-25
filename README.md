@@ -6,3 +6,6 @@
 
 <img src="pic.png" width="800" />
 
+# EWMA Control Chart-
+
+"The Exponentially Weighted Moving Average (EWMA) is a statistic for monitoring the process that averages the data in a way that gives less and less weight to data as they are further removed in time."
