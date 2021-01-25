@@ -13,7 +13,7 @@ import pandas
 ## Results:
 GenerallyThe SPC chart looks like this: 
 
-<img src="pic.png" width="600" />
+<img src="pic.png" width="400" />
 
 ## EWMA Control Chart-
 ### According to the Engineering stastics handbook:  
